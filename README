@@ -1,0 +1,8 @@
+DocumentClusterer
+
+clusters RSS feeds based on subject using tf-idf weighting
+easily extendible to include other document types (just extend Document)
+
+Dependencies
+apache.httpcomponents.client http://hc.apache.org/downloads.cgi
+apache.commons.lang http://commons.apache.org/lang/download_lang.cgi
